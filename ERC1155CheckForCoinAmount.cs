@@ -28,7 +28,7 @@ public class ERC1155CheckForCoinAmount : MonoBehaviour
         //StartCoroutine(FetchCoinInformation());
     }
 
-    private IEnumerator FetchCoinInformation()
+    public IEnumerator FetchCoinInformation()
     {
         // Create the queryRequest to the BalanceOfFunction of the 1155 coin
         var queryRequest = new QueryUnityRequest<BalanceOfFunction, BalanceOfOutputDTO>(infuriaUrl, userWallet);
