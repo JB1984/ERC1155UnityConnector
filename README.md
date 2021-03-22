@@ -6,7 +6,7 @@ Simply download and put these files in your Unity projects Asset folder. Attach 
 Coming soon:
 
 1. Ability to gather the metadata (image/description/etc..) of the ERC1155 coin and then you could also use that in interesting ways within the game world. 
-2. Use of transaction signing to verify the wallet address entered by user.
+2. Use of transaction signing to verify the wallet address entered by user. Perhaps if possible have user link their wallet with QR code.
 
 
 
