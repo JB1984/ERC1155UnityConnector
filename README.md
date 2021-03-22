@@ -3,7 +3,7 @@ Allows you to easily access ERC1155 (Rarible) token information from within Unit
 
 Simply download and put these files in your Unity projects Asset folder. 
 
-I have created a starter file as an example. Attach the ERC1155CheckForCoinAmounts script to an object with a collider and trigger, fill in the relevant public fields and then when an object with the tag "Player" enters the trigger it will Debug.log the amount of the coin that the persons wallet has. You can easily expand on this code to have it trigger some sort of action in your game.
+I have created a starter file as an example. Attach the ERC1155CheckForCoinAmounts script to an object with a collider and trigger, fill in the relevant public fields and then when an object with the tag "Player" enters the trigger it will Debug.log the amount of the specified token that the persons wallet has. You can easily expand on this code to have it trigger some sort of action in your game.
 
 Coming soon:
 
